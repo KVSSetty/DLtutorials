@@ -12,7 +12,7 @@
 - online classes: [ML and DL guru](https://www.mlanddlguru.com/b)
 
 This repository contains notebooks and other files associated with my
-**Deep Learning tutorials** primarily using [keras](https://keras.io/)
+**Deep Learning tutorials** primarily using [Keras](https://keras.io/)
 [PyTorch.](https://pytorch.org/) , [TensorFlow2.0](https://www.tensorflow.org/)
 
 ## Installation Notes
